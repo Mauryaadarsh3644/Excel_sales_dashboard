@@ -36,14 +36,16 @@ The dashboard helps in:
 ## 📸 Dashboard Preview
 
 ### 🔹 Main Dashboard
-![Main Dashboard](screenshots/Dashboard image.png)
+![Main Dashboard](screenshots/Dashboard_image.png)
+
+
+### 🔹 KPI Overview
+![KPI](screenshots/KPI_Overview.png)
 
 
 ### 🔹 Sales Analysis View
-![Sales Analysis](screenshots/KPI Overview.png)
+![Sales Analysis](screenshots/sales_analysis.png)
 
-### 🔹 KPI Overview
-![KPI](screenshots/sales_analysis.png)
 
 ---
 
