@@ -36,7 +36,7 @@ The dashboard helps in:
 ## 📸 Dashboard Preview
 
 ### 🔹 Main Dashboard
-![Main Dashboard]C:\Users\maury\Desktop\Excel sales Analysis Project\screenshots\Dashboard image.png)
+![Main Dashboard](screenshots\Dashboard image.png)
 
 
 ### 🔹 Sales Analysis View
