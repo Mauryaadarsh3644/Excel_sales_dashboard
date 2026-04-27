@@ -36,14 +36,14 @@ The dashboard helps in:
 ## 📸 Dashboard Preview
 
 ### 🔹 Main Dashboard
-![Main Dashboard](screenshots\Dashboard image.png)
+![Main Dashboard](screenshots/Dashboard image.png)
 
 
 ### 🔹 Sales Analysis View
-![Sales Analysis](C:\Users\maury\Desktop\Excel sales Analysis Project\screenshots\sales_analysis.png)
+![Sales Analysis](screenshots/KPI Overview.png)
 
 ### 🔹 KPI Overview
-![KPI](C:\Users\maury\Desktop\Excel sales Analysis Project\screenshots\KPI Overview.png)
+![KPI](screenshots/sales_analysis.png)
 
 ---
 
